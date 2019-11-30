@@ -40,3 +40,17 @@ Beeindruckender Einstieg,
 ### der goldene Schnitt
 
 ### die Drittelregel
+
+## wordpress REST api
+
+benötigte Software: Postman, Basic auth, jwt wordpress plugin json token
+
+Endpunkte: 
+
+"Local" = locale websites???
+
+"Postman" - rechercheieren
+
+REST API - abschalten, da hierüber viele Daten ausgelesen werden können
+
+
