@@ -53,4 +53,10 @@ Endpunkte:
 
 REST API - abschalten, da hierüber viele Daten ausgelesen werden können!!!! Nutzername, Klarname und Mailadresse sollten niemals übereinstimmen!!!
 
+## Lighthouse
+
+- Sources Overrides aktivieren und Quellcode zu editieren
+- Coverage - für ungenutztes css
+- W3 Total Cache
+
 
