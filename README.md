@@ -34,3 +34,9 @@ Deine Angebote, SocialMediaLinks, animierende Frage - Kontaktaufruf
 Profilfoto, Kontaktinfos
 
 Beeindruckender Einstieg, 
+
+## Sehen lernen, Siggi Becker
+
+### der goldene Schnitt
+
+### die Drittelregel
