@@ -25,3 +25,12 @@ Etwas ungewöhnliches, Provokatives
 
 Ein Manifest verfassen (jeder sollte haben)
 
+### ...
+
+Unternehmensgeschichte, Unsere Philosoophie, Unser Team (Wertschätzung), Social Proof (Beispiele eigene Arbeit), Referenzen
+
+Deine Angebote, SocialMediaLinks, animierende Frage - Kontaktaufruf
+
+Profilfoto, Kontaktinfos
+
+Beeindruckender Einstieg, 
