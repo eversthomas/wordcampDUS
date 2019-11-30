@@ -51,6 +51,6 @@ Endpunkte:
 
 #### "Postman" - rechercheieren: kann ich nutzen und einzubettende codes zu bekommen
 
-REST API - abschalten, da hierüber viele Daten ausgelesen werden können
+REST API - abschalten, da hierüber viele Daten ausgelesen werden können!!!! Nutzername, Klarname und Mailadresse sollten niemals übereinstimmen!!!
 
 
