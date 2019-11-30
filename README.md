@@ -49,7 +49,7 @@ Endpunkte:
 
 "Local" = locale websites???
 
-"Postman" - rechercheieren
+#### "Postman" - rechercheieren: kann ich nutzen und einzubettende codes zu bekommen
 
 REST API - abschalten, da hierüber viele Daten ausgelesen werden können
 
